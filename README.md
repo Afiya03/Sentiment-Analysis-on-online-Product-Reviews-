@@ -17,12 +17,20 @@ This project analyzes Amazon product reviews to understand customer sentiment. U
 
 🔹 Visualizations – bar plots, pie charts, treemaps, and line charts for insights.
 
+
 🛠️ Tech Stack
-Python 🐍
+
+Python 
+
 Libraries: pandas, numpy, matplotlib, seaborn, scikit-learn, nltk, wordcloud
+
 ML Algorithm: Naive Bayes,SVM, Random Forest
 
+
 📊 Sample Insights
+
 ✅ Positive reviews dominate the dataset.
+
 📅 Sentiment trends show seasonal variations.
+
 🔑 Frequently used words highlight customer satisfaction and concerns.
