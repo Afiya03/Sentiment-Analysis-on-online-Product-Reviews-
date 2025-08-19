@@ -3,7 +3,6 @@
 
 📌 Overview
 
-
 This project analyzes Amazon product reviews to understand customer sentiment. Using Natural Language Processing (NLP), Exploratory Data Analysis (EDA), and Machine Learning, it classifies reviews as Positive, Neutral, or Negative and provides insights through visualizations and time-series trends.
 
 ⚙️ Features
